@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace PromptAPI.Models
+namespace GSMicroServices.Model
 {
     [Table("Prompt")]
     public class Prompt
